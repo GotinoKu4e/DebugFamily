@@ -5,14 +5,12 @@ Feel free to contribute to this project
 # Info
 
 **Developer** Gotino Ku4e
-
 **IDE** VIM
-
 **Languages used** HTML, CSS
-
 **Year** 2019
 
-# PS
+
+# P.S.
 
 
 Детенце на програмист го пита докато той е затънал дълбоко в дебъгването на сложна програма: 
