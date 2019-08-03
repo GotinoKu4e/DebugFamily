@@ -4,10 +4,10 @@ Feel free to contribute to this project
 
 # Info
 
-**Developer** Gotino Ku4e
-**IDE** VIM
-**Languages used** HTML, CSS
-**Year** 2019
+- **Developer** Gotino Ku4e
+- **IDE** VIM
+- **Languages used** HTML, CSS
+- **Year** 2019
 
 
 # P.S.
